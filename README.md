@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinest1997
-- 👀 I’m interested in ... swift
-- 🌱 I’m currently learning ... html,css,js
+- 👀 I’m interested in ... Swift
+- 🌱 I’m currently learning ... Swift
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ... kinest1997@naver.com
 
